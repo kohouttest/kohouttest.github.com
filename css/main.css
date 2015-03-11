@@ -26,6 +26,11 @@ body{
 /*   display: block;  */
 }
 
-.drawing_area_visible{
-   display: block;
+.drawing_area_hidden{
+   display: none;
+/*   display: block;  */
+}
+
+.drawing_area{
+   margin-top: 10px;
 }
